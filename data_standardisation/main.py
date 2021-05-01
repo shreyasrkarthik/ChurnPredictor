@@ -12,7 +12,3 @@ if __name__ == '__main__':
 
     data_types = de.get_column_types(path_to_csv_file)
     pprint(data_types)
-
-
-    pass
-/Users/shreyasrk/PycharmProjects/ChurnPrediction/data_standardisation/main.py
